@@ -43,7 +43,8 @@ body {
 
 .sidebar .nav-link {
   font-weight: 500;
-  color: #333;
+  font-size: 1rem;
+  color: rgb(148, 148, 148);
 }
 
 .sidebar .nav-link .feather {
@@ -53,6 +54,7 @@ body {
 
 .sidebar .nav-link.active {
   color: #007bff;
+  background-color: #e8eaee;
 }
 
 .sidebar .nav-link:hover .feather,
